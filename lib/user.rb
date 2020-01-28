@@ -15,5 +15,4 @@ class User
     @knowledge
   end
 
-
 end
